@@ -1,0 +1,15 @@
+body{
+    font-family:'Franklin Gothic Medium' ;
+    background-color: #A9DFBF;
+    background:-webkit-linear-gradient(to right,#A9DFBF ,#EDBB99);
+    background:linear-gradient(to right,#A9DFBF,#EDBB99);
+    height: 650px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    } 
+    
+    h1{
+        text-align: center;
+        font-weight: 700 ;}
+        
